@@ -5,8 +5,14 @@ const users=require('./users')
 require('dotenv').config();
 
 const updateRecord =async (req,res)=>{
+  
     try {
-      let file=process.env.FILEPATH;
+      let file;
+      if(req.method=='GET'){
+       file=process.env.FILEPATH;
+      }else{
+        file=req.file.path;
+      }
         let records=[]
 
         fs.createReadStream(file)
