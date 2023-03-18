@@ -1,0 +1,33 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender
+Anand,Mishra,26,addr1,addrline2,lucknow,Uttar Pradesh,Male
+Ram,Mishra,23,addr1,addrline2,Kolkata,West Bengal,Male
+Riha,Mishra,22,addr1,addrline2,Mumbai,Maharastra,Female
+Rishu,Mishra,22,addr1,addrline2,lucknow,Uttar Pradesh,Female
+sunil,Joshi,12,addr1,addrline2,lucknow,Uttar Pradesh,Male
+Aman,Joshi,35,addr1,addrline2,Kolkata,West Bengal,Male
+Pooja,Joshi,55,addr1,addrline2,Mumbai,Maharastra,Female
+Shyan,Joshi,68,addr1,addrline2,lucknow,Uttar Pradesh,Female
+sunil,Joshi,12,addr1,addrline2,lucknow,Uttar Pradesh,Male
+Aman,Joshi,35,addr1,addrline2,Kolkata,West Bengal,Male
+Pooja,Mishra,55,addr1,addrline2,Mumbai,Maharastra,Female
+Shyan,Mishra,68,addr1,addrline2,lucknow,Uttar Pradesh,Female
+sunil,Mishra,12,addr1,addrline2,lucknow,Uttar Pradesh,Male
+Aman,Yadav,35,addr1,addrline2,Kolkata,West Bengal,Male
+Pooja,Yadav,55,addr1,addrline2,Mumbai,Maharastra,Female
+Shyan,Yadav,68,addr1,addrline2,lucknow,Uttar Pradesh,Female
+Anand,Mishra,26,addr1,addrline2,lucknow,Uttar Pradesh,Male
+Ram,Mishra,23,addr1,addrline2,Kolkata,West Bengal,Male
+Riha,Mishra,22,addr1,addrline2,Mumbai,Maharastra,Female
+Rishu,Mishra,22,addr1,addrline2,lucknow,Uttar Pradesh,Female
+sunil,Joshi,12,addr1,addrline2,lucknow,Uttar Pradesh,Male
+Aman,Joshi,35,addr1,addrline2,Kolkata,West Bengal,Male
+Pooja,Joshi,55,addr1,addrline2,Mumbai,Maharastra,Female
+Shyan,Joshi,68,addr1,addrline2,lucknow,Uttar Pradesh,Female
+sunil,Joshi,12,addr1,addrline2,lucknow,Uttar Pradesh,Male
+Aman,Joshi,35,addr1,addrline2,Kolkata,West Bengal,Male
+Pooja,Mishra,55,addr1,addrline2,Mumbai,Maharastra,Female
+Shyan,Mishra,68,addr1,addrline2,lucknow,Uttar Pradesh,Female
+sunil,Mishra,12,addr1,addrline2,lucknow,Uttar Pradesh,Male
+Aman,Yadav,35,addr1,addrline2,Kolkata,West Bengal,Male
+Pooja,Yadav,55,addr1,addrline2,Mumbai,Maharastra,Female
+Shyan,Yadav,68,addr1,addrline2,lucknow,Uttar Pradesh,Female
